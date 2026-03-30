@@ -67,7 +67,7 @@
                            <div class="blog-img">
                               <img src="assets\images\blog\Inaugural-ceremony1.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
-                           </div>
+                           </div> 
       
                            <div class="blog-content"> 
                               <!-- <ul>

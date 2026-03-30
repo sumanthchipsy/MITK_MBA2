@@ -65,9 +65,9 @@
                                <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=inaugural-ceremony" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Inaugural-ceremony1.png" alt="MBA MIT Earn While You Learn">
-                              <span>Activities</span> 
-                           </div> 
+                              <img src="assets\images\blog\Inaugural-Ceremony1.png" alt="MBA MIT Earn While You Learn">
+                              <span>Activities</span>  
+                           </div>  
       
                            <div class="blog-content"> 
                               <!-- <ul>

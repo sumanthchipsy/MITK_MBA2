@@ -34,6 +34,34 @@
                <div class="col-lg-8">
                   <div class="row justify-content-md-center">
 
+                                              <!-- womens Day  celebration  -->
+
+                             <div class="col-lg-12 col-md-6">
+                        <a href="blog.php?slug=womens-day-celebration" class="single-blog">
+                           <div class="blog-img">
+                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <span>Activities</span>
+                           </div>
+      
+                           <div class="blog-content">
+                              <!-- <ul>
+                                 <li>
+                                    <i class="ri-calendar-line"></i>
+                                    <span>26 March, 2021</span>
+                                 </li>
+                              </ul> -->
+         
+                              <h3>
+                                 <div >
+                                 Women’s Day Celebration
+                                 </div>
+                              </h3>
+         
+                              <p> The International Women’s Day Celebration was held on 9th March at 3.00 pm in the college auditorium at Moodlakatte Institute of Technology</p>
+                           </div>
+                        </a>
+                     </div>                    
+
                                             <!-- pitch day  -->
      
                           <div class="col-lg-12 col-md-6">

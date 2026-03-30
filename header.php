@@ -231,7 +231,7 @@
 												<a href="gallery.php" class="nav-link">Photo Gallery</a>
 											</li>
 											<li class="nav-item">
-												<a href="#" class="nav-link">YUVA</a>
+												<a href="yuva.php" class="nav-link">YUVA</a>
 											</li>
 											<li class="nav-item hide-all">
 												<a href="lets-go-quizzin.php" class="nav-link">Let’s go quizzin</a>

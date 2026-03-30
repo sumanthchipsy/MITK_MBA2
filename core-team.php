@@ -77,7 +77,7 @@
 	                     </div>
 	                  </div>
 	               </div>
-	               <div class="col-lg-3 col-md-6">
+	               <!-- <div class="col-lg-3 col-md-6">
 	                  <div class="single-team-member">
 	                     <img src="assets/images/team/Melwin-DSouza-MIT-Kundapura.jpg" alt="Melwin DSouza MITK Core Team">
 
@@ -117,7 +117,7 @@
 	                        </div>
 	                     </div>
 	                  </div>
-	               </div>
+	               </div> -->
 	               <div class="col-lg-3 col-md-6">
 	                  <div class="single-team-member">
 	                     <img src="assets/images/team/Ms-Amruthmala-Naren-MBA-MITK-Faculty.jpg" alt="Dr Ms Amruthmala Naren MBA MITK Faculty">

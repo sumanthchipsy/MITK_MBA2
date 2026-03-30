@@ -83,9 +83,9 @@
 							<h5>
 								FOR ADMISSION ENQUIRY
 							</h5>
-							<p>Mobile: +91 91641 25456</p>
-							<p>Phone: +91 8254 237258, 236970</p>
-							<p>Admission Call: +91 90360 21033, +91 93807 73435</p>
+							<!-- <p>Mobile: +91 91641 25456</p> -->
+							<!-- <p>Phone: +91 8254 237258, 236970</p> -->
+							<p>Admission Call: +91 90360 21033</p>
 							<p>E-mail: office@mitkundapura.com</p>
 							
 

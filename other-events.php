@@ -39,7 +39,7 @@
                              <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=womens-day-celebration" class="single-blog">
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\women1.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span>
                            </div>
       

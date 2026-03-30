@@ -39,8 +39,8 @@
                              <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=about-yuva" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
-                              <span>Activities</span>
+                              <img src="assets\images\blog\about-yuva3.png" alt="MBA MIT Earn While You Learn">
+                              <span>Activities</span> 
                            </div>
       
                            <div class="blog-content"> 

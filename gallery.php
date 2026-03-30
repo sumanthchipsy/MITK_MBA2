@@ -32,7 +32,220 @@
                <div class="container">
                   <div class="row justify-content-center">
 
+                                       <!-- New Gallery -->
+
+                        <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery1.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery1.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                        <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery2.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery2.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery3.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery3.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery4.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery4.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery5.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery5.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery6.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery6.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery7.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery7.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery8.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery8.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery9.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery9.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery10.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery10.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery11.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery11.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery12.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery12.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery13.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery13.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery14.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery14.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="col-lg-4 col-md-6">
+                        <div class="single-gallery">
+                           <img src="assets/images/gallery/gallery15.png" alt="MBA MITK Campus Job Fair">
+         
+                           <div class="gallery-item-content">
+                              <div class="gallery-link">
+                                 <a href="assets/images/gallery/gallery15.png">
+                                    <i class="ri-add-fill"></i>
+                                 </a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                   
+
+                                       <!-- old gallery  -->
                   <div class="col-lg-4 col-md-6">
                         <div class="single-gallery">
                            <img src="assets/images/gallery/DSC_2346.png" alt="MBA MITK Campus Job Fair">

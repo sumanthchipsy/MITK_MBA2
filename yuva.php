@@ -92,7 +92,7 @@
                                   <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=Best-manager" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\best-manager2.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
                            </div>
       
@@ -119,7 +119,7 @@
                                   <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=Business-quiz-maverick" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\business-quiz2.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
                            </div>
       
@@ -148,7 +148,7 @@
                                      <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=marketing-strategy-sync" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\marketing-sync1.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
                            </div>
       
@@ -175,7 +175,7 @@
                           <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=mock-press-avatar" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\mock-press1.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
                            </div>
       
@@ -204,7 +204,7 @@
                           <div class="col-lg-12 col-md-6">
                         <a href="blog.php?slug=business-idea-visonx" class="single-blog"> 
                            <div class="blog-img">
-                              <img src="assets\images\blog\Frame 1000002061.png" alt="MBA MIT Earn While You Learn">
+                              <img src="assets\images\blog\business-idea1.png" alt="MBA MIT Earn While You Learn">
                               <span>Activities</span> 
                            </div>
       
